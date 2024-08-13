@@ -2,10 +2,10 @@
 
 public class Workout
 {
-    int length {  get; set; }
-    int distance { get; set; }
-    int maxHearRate { get; set; }
-    int minHeartRate { get; set; }
-    int AvgHeartRate { get; set; }
+    public int length {  get; set; }
+    public int distance { get; set; }
+    public int maxHearRate { get; set; }
+    public int minHeartRate { get; set; }
+    public int AvgHeartRate { get; set; }
 }
 
